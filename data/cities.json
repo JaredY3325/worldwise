@@ -13,18 +13,6 @@
       "id": 98443197
     },
     {
-      "cityName": "Torre de Miguel Sesmero",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-06-25T02:37:07.532Z",
-      "notes": "a",
-      "position": {
-        "lat": "38.60045061986328",
-        "lng": "-6.788390226781095"
-      },
-      "id": 98443198
-    },
-    {
       "cityName": "Radgoszcz",
       "country": "Poland",
       "emoji": "🇵🇱",
@@ -47,6 +35,30 @@
         "lng": "27.823623876036535"
       },
       "id": 98443212
+    },
+    {
+      "cityName": "Savsjo",
+      "country": "Sweden",
+      "emoji": "🇸🇪",
+      "date": "2023-06-25T15:22:19.815Z",
+      "notes": "Hello my names Pewdiepie",
+      "position": {
+        "lat": "57.399165095330716",
+        "lng": "14.515690964695187"
+      },
+      "id": 98443213
+    },
+    {
+      "cityName": "Spitsbergen",
+      "country": "Norway",
+      "emoji": "🇳🇴",
+      "date": "2023-06-25T15:24:35.634Z",
+      "notes": "Spit",
+      "position": {
+        "lat": "78.29706267136939",
+        "lng": "15.663564623006565"
+      },
+      "id": 98443214
     }
   ]
 }
