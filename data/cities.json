@@ -35,6 +35,186 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Torre de Miguel Sesmero",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-06-25T02:37:07.532Z",
+      "notes": "a",
+      "position": {
+        "lat": "38.60045061986328",
+        "lng": "-6.788390226781095"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Torre de Miguel Sesmero",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-06-25T02:37:07.532Z",
+      "notes": "a",
+      "position": {
+        "lat": "38.60045061986328",
+        "lng": "-6.788390226781095"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Torre de Miguel Sesmero",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-06-25T02:37:07.532Z",
+      "notes": "a",
+      "position": {
+        "lat": "38.60045061986328",
+        "lng": "-6.788390226781095"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Portela do Fojo Machio",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-06-25T02:39:05.561Z",
+      "notes": "asdf",
+      "position": {
+        "lat": "40.02003285187285",
+        "lng": "-8.007249654342198"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Portela do Fojo Machio",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-06-25T02:39:05.561Z",
+      "notes": "asdf",
+      "position": {
+        "lat": "40.02003285187285",
+        "lng": "-8.007249654342198"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Portela do Fojo Machio",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-06-25T02:39:05.561Z",
+      "notes": "asdf",
+      "position": {
+        "lat": "40.02003285187285",
+        "lng": "-8.007249654342198"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Portela do Fojo Machio",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-06-25T02:39:05.561Z",
+      "notes": "asdf",
+      "position": {
+        "lat": "40.02003285187285",
+        "lng": "-8.007249654342198"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Portela do Fojo Machio",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-06-25T02:39:05.561Z",
+      "notes": "asdf",
+      "position": {
+        "lat": "40.02003285187285",
+        "lng": "-8.007249654342198"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Portela do Fojo Machio",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-06-25T02:39:05.561Z",
+      "notes": "asdf",
+      "position": {
+        "lat": "40.02003285187285",
+        "lng": "-8.007249654342198"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Portela do Fojo Machio",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-06-25T02:39:05.561Z",
+      "notes": "asdf",
+      "position": {
+        "lat": "40.02003285187285",
+        "lng": "-8.007249654342198"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Portela do Fojo Machio",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-06-25T02:39:05.561Z",
+      "notes": "asdf",
+      "position": {
+        "lat": "40.02003285187285",
+        "lng": "-8.007249654342198"
+      },
+      "id": 98443208
+    },
+    {
+      "cityName": "Portela do Fojo Machio",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-06-25T02:39:05.561Z",
+      "notes": "asdf",
+      "position": {
+        "lat": "40.02003285187285",
+        "lng": "-8.007249654342198"
+      },
+      "id": 98443209
+    },
+    {
+      "cityName": "Herencia",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-06-25T02:41:29.180Z",
+      "notes": "asdf",
+      "position": {
+        "lat": "39.133047477200954",
+        "lng": "-3.377476920527412"
+      },
+      "id": 98443210
+    },
+    {
+      "cityName": "Radgoszcz",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2023-06-25T02:42:46.638Z",
+      "notes": "a",
+      "position": {
+        "lat": "50.18234908965738",
+        "lng": "21.13210227043699"
+      },
+      "id": 98443211
+    },
+    {
+      "cityName": "A Dakhla Oasis",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-06-25T02:43:34.476Z",
+      "notes": "fasd",
+      "position": {
+        "lat": "24.732771613936013",
+        "lng": "27.823623876036535"
+      },
+      "id": 98443212
     }
   ]
 }
